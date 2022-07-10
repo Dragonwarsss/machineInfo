@@ -1,12 +1,4 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** IMonitorModule
-*/
-
 #include <iostream>
-
 
 #ifndef IMONITORMODULE_HPP_
 #define IMONITORMODULE_HPP_

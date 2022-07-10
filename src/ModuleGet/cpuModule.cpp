@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** cpuModule
-*/
-
 #include "cpuModule.hpp"
 
 CpuModule::CpuModule()

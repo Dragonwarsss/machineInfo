@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** networkModule
-*/
-
 #include <iostream>
 #include <stdio.h>
 #include <sys/socket.h>

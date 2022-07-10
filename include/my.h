@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** some header
-** File description:
-** header
-*/
-
 #ifndef MY_H_
 #define MY_H_
 

@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** networkModule
-*/
-
 #include "networkModule.hpp"
 
 NetworkModule::NetworkModule()

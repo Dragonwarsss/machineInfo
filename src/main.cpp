@@ -1,20 +1,11 @@
-/*
-** EPITECH PROJECT, 2020
-** Some Project
-** File description:
-** main
-*/
-
 #include <ostream>
 #include "my.h"
-#include "launcher.hpp"
 #include "os.hpp"
 #include "timeModule.hpp"
 #include "basicModule.hpp"
 #include "cpuModule.hpp"
 #include "cpuUsage.hpp"
-#include "hTop.hpp"
-#include "text_mode.hpp"
+#include "ramModule.hpp"
 
 using namespace std;
 

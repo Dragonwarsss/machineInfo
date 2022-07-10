@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** cpuModule
-*/
-
 #include <ostream>
 #include <fstream>
 #include <cstring>

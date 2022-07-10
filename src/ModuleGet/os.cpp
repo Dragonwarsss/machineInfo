@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** os
-*/
-
 #include <fstream>
 #include "os.hpp"
 

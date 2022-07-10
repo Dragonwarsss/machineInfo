@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** cpp_rush3_2019
-** File description:
-** hTop
-*/
-
 #include <SFML/Graphics.hpp>
 #include <SFML/Window.hpp>
 #include "cpuModule.hpp"

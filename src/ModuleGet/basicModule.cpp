@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** basicModule
-*/
-
 #include <fstream>
 #include <boost/algorithm/string/replace.hpp>
 #include "basicModule.hpp"

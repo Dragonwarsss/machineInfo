@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** cpuUsage
-*/
-
 #include "cpuUsage.hpp"
 
 CpuUsage::CpuUsage(int nbCore)

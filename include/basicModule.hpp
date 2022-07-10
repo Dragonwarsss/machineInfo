@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** basicModule
-*/
-
 #include <iostream>
 #include <cstring>
 #include "IMonitorModule.hpp"

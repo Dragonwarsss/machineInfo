@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** timeModule
-*/
-
 #include "timeModule.hpp"
 
 TimeModule::TimeModule()

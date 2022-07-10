@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** os
-*/
-
 #include <iostream>
 #include <sys/utsname.h>
 #include "IMonitorModule.hpp"

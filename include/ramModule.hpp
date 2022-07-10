@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** ramModule
-*/
-
 #include "IMonitorModule.hpp"
 
 #ifndef RAMMODULE_HPP_

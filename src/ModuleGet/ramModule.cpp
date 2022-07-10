@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2020
-** htop
-** File description:
-** ramModule
-*/
-
 #include <fstream>
 #include <vector>
 #include <boost/algorithm/string.hpp>
