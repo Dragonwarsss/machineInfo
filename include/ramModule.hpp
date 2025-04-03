@@ -13,7 +13,7 @@ class RamModule : public IMonitorModule {
     std::string getUsedMemory();
         virtual std::string getModuleName() const {return _moduleName;};
         virtual void setModuleName(const std::string& moduleName) {_moduleName = moduleName;};
-        virtual void refresh() {};
+        virtual void refresh() override;
     private:
         float _totalMemory;
         float _usedMemory;

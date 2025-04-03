@@ -26,7 +26,8 @@ class CpuUsage : public IMonitorModule {
         float *getCpuUsage();
         virtual std::string getModuleName() const {return _moduleName;};
         virtual void setModuleName(const std::string& moduleName) {_moduleName = moduleName;};
-        virtual void refresh() {};
+        virtual void refresh() override;
+        int getNumberOfCores() const { return _nbCore; }
     private:
         int _nbCore;
         core _coreUsage[4];

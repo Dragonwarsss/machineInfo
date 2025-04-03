@@ -49,7 +49,6 @@ void CpuUsage::computeUsage()
     std::ifstream inputFile("/proc/stat", std::ifstream::in);
     std::string tmp_str;
     time_t curr = std::time(nullptr);
-
     if (curr == _timestamp)
         return;
     _timestamp = curr;
@@ -75,4 +74,9 @@ void CpuUsage::computeUsage()
         }
     }
     inputFile.close();
+}
+
+void CpuUsage::refresh()
+{
+    computeUsage();
 }

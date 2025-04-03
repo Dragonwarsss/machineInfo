@@ -1,2 +1,3 @@
 machineInfo
 .vscode/
+*.o
